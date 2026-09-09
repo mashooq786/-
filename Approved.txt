@@ -1,1 +1,9 @@
 
+# --- Approved User IDs ---
+USER_ID_1001
+USER_ID_1002
+USER_ID_1003
+
+# --- Approved Keys ---
+KEY-XYZ-2026-A
+KEY-XYZ-2026-B
